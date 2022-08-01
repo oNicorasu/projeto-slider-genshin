@@ -1,0 +1,33 @@
+@media (max-width: 620px) {
+    .genshin-slider {
+        padding: 0px 15px;
+        gap: 10px;
+    }
+
+    .btn-seta {
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .lista-personagens {
+        height: 480px;
+    }
+
+    .card .img {
+        max-height: 230px;
+
+    }
+
+    .card .info .nome {
+        max-width: 50%;
+        font-size: 18px;
+    }
+
+    .card .info .arma-ele {
+        font-size: 14px;
+    }
+}
